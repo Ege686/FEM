@@ -1,2 +1,8 @@
 # FEM
 Bridge optimization and 2D stress-strain analyses
+
+There is 2 optimization for the truss bridge. First one is the clasical aproach which works really good and the second one is with Gradient-Decent algorithm which works not fine. Possible reasons of that might be:
+1. I did the math wrong.(It looks fine actually)
+2. There are some bugs in the code.(More likely because I trimmed out bunch of bugs through out the process)
+
+And there is also 2D stress and strain analyses of the basic 2D shapes with extension, expansion and shear options.
